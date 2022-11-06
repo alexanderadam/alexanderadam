@@ -58,6 +58,7 @@ And I'm also trying to help with everything else, if possible.
   &nbsp;
   &nbsp;
   <a rel="me" href="https://ruby.social/@alexanderadam">
+    <img height="25px" src="https://cdn.svgporn.com/logos/mastodon.svg" alt="Mastodon / Fediverse" />
   </a>
   &nbsp;
   &nbsp;
