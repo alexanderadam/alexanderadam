@@ -1,7 +1,10 @@
 <h1 align="center">Hello, I'm Alexander Adam</h1>
 
 <a href="https://vade.io/">
-  <img align='right' src="https://github.com/alexanderadam/alexanderadam/raw/master/images/logo.svg" width="200" alt="vade.io GmbH">
+  <picture>
+    <source srcset="https://github.com/alexanderadam/alexanderadam/raw/master/images/logo_dm.svg" media="(prefers-color-scheme: dark)">
+    <img align='right' src="https://github.com/alexanderadam/alexanderadam/raw/master/images/logo.svg" width="200" alt="vade.io GmbH">
+ </picture>
 </a>
 
 ## 🧔 About me
@@ -22,7 +25,10 @@ And I'm also trying to help with everything else, if possible.
 
 <div align='right'>
   <a href="https://vade.io/">
-    <img height="25px" src="https://github.com/alexanderadam/alexanderadam/raw/master/images/logo.svg" alt="vade.io"/>
+    <picture>
+      <source srcset="https://github.com/alexanderadam/alexanderadam/raw/master/images/logo_dm.svg" media="(prefers-color-scheme: dark)">
+      <img align='right' src="https://github.com/alexanderadam/alexanderadam/raw/master/images/logo.svg" height="25px" alt="vade.io GmbH">
+   </picture>
   </a>
   &nbsp;
   &nbsp;
@@ -47,6 +53,11 @@ And I'm also trying to help with everything else, if possible.
   &nbsp;
   <a href="https://bitbucket.org/alexanderadam/">
     <img height="25px" src="https://cdn.svgporn.com/logos/bitbucket.svg" alt="BitBucket" />
+  </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a rel="me" href="https://ruby.social/@alexanderadam">
   </a>
   &nbsp;
   &nbsp;
