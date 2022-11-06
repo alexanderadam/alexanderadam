@@ -2,15 +2,14 @@
 
 <a href="https://vade.io/">
   <picture>
-    <source srcset="https://github.com/alexanderadam/alexanderadam/raw/master/images/logo_dm.svg" media="(prefers-color-scheme: dark)">
-    <img align='right' src="https://github.com/alexanderadam/alexanderadam/raw/master/images/logo.svg" width="200" alt="vade.io GmbH">
+    <source srcset="https://raw.githubusercontent.com/alexanderadam/alexanderadam/main/images/logo_dm.svg" media="(prefers-color-scheme: dark)">
+    <img align='right' src="https://raw.githubusercontent.com/alexanderadam/alexanderadam/main/images/logo.svg" width="200" alt="vade.io GmbH">
  </picture>
 </a>
 
 ## 🧔 About me
 
 I'm living in 🇨🇭 Central Switzerland 🇨🇭 and I'm working as freelancer. Usually I'm focussed on full-stack development that involves [Ruby](https://github.com/ruby/ruby). Or maybe I can convince you in using [Crystal Language](https://github.com/crystal-lang/crystal/) for your next project?
-
 
 ## ☑️ What I can do for you
 
@@ -26,8 +25,8 @@ And I'm also trying to help with everything else, if possible.
 <div align='right'>
   <a href="https://vade.io/">
     <picture>
-      <source srcset="https://github.com/alexanderadam/alexanderadam/raw/master/images/logo_dm.svg" media="(prefers-color-scheme: dark)">
-      <img align='right' src="https://github.com/alexanderadam/alexanderadam/raw/master/images/logo.svg" height="25px" alt="vade.io GmbH">
+      <source srcset="https://raw.githubusercontent.com/alexanderadam/alexanderadam/main/images/logo_dm.svg" media="(prefers-color-scheme: dark)">
+      <img align='right' src="https://raw.githubusercontent.com/alexanderadam/alexanderadam/main/images/logo.svg" height="25px" alt="vade.io GmbH">
    </picture>
   </a>
   &nbsp;
@@ -58,7 +57,7 @@ And I'm also trying to help with everything else, if possible.
   &nbsp;
   &nbsp;
   <a rel="me" href="https://ruby.social/@alexanderadam">
-    <img height="25px" src="https://cdn.svgporn.com/logos/mastodon.svg" alt="Mastodon / Fediverse" />
+    <img height="25px" src="https://cdn.svgporn.com/logos/mastodon-icon.svg" alt="Mastodon / Fediverse" />
   </a>
   &nbsp;
   &nbsp;
@@ -66,4 +65,4 @@ And I'm also trying to help with everything else, if possible.
 </div>
 
 
-![footer](https://github.com/alexanderadam/alexanderadam/raw/master/images/1500x500.png)
+![footer](https://raw.githubusercontent.com/alexanderadam/alexanderadam/main/images/1500x500.png)
